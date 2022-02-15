@@ -1,8 +1,8 @@
-package me.akatenx.redclient.features.module.command.commands;
+package me.akatenx.redclient.features.command.commands;
 
 import me.akatenx.redclient.RedClient;
+import me.akatenx.redclient.features.command.Command;
 import me.akatenx.redclient.features.module.Module;
-import me.akatenx.redclient.features.module.command.Command;
 
 import java.util.Locale;
 

@@ -1,4 +1,4 @@
-package me.akatenx.redclient.features.module.command;
+package me.akatnx.redclient.features.command;
 
 import com.mojang.realmsclient.gui.ChatFormatting;
 import net.minecraft.client.Minecraft;

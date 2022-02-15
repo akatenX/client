@@ -1,7 +1,7 @@
-package me.akatenx.redclient.features.module.command;
+package me.akatenx.redclient.features.command;
 
-import me.akatenx.redclient.features.module.command.commands.Bind;
-import me.akatenx.redclient.features.module.command.commands.Toggle;
+import me.akatenx.redclient.features.command.commands.Bind;
+import me.akatenx.redclient.features.command.commands.Toggle;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiChat;
 import net.minecraftforge.client.event.ClientChatEvent;
