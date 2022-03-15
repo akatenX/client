@@ -1,3 +1,3 @@
 # testclient
 予定
-keystrokesを追加する
+飽きたから作るの辞めました( ・∇・)
