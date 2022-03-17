@@ -5,3 +5,5 @@
 
 ぼくにjavaはあってません
 python kami!!!!!
+
+使いたかったらinteljideとか使って開けば出来ます
